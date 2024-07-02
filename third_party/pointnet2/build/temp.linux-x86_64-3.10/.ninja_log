@@ -1,0 +1,10 @@
+# ninja log v5
+1	7767	1719810414917081167	/work/V-DETR/third_party/pointnet2/build/temp.linux-x86_64-3.10/_ext_src/src/ball_query_gpu.o	362086039ff41472
+2	8047	1719810415193066013	/work/V-DETR/third_party/pointnet2/build/temp.linux-x86_64-3.10/_ext_src/src/sampling_gpu.o	b58c208d14110721
+2	8633	1719810415781033774	/work/V-DETR/third_party/pointnet2/build/temp.linux-x86_64-3.10/_ext_src/src/interpolate_gpu.o	c747bdd4c446796c
+1	9108	1719810416257007743	/work/V-DETR/third_party/pointnet2/build/temp.linux-x86_64-3.10/_ext_src/src/group_points_gpu.o	74f9ef6a0a8fbb31
+1	10859	1719810417996913047	/work/V-DETR/third_party/pointnet2/build/temp.linux-x86_64-3.10/_ext_src/src/group_points.o	27eb48089ac7e2d4
+0	10866	1719810418000912830	/work/V-DETR/third_party/pointnet2/build/temp.linux-x86_64-3.10/_ext_src/src/ball_query.o	ebc59b2051bc6c76
+1	10897	1719810418040910667	/work/V-DETR/third_party/pointnet2/build/temp.linux-x86_64-3.10/_ext_src/src/interpolate.o	80995efbc39a9baa
+0	10991	1719810418136905478	/work/V-DETR/third_party/pointnet2/build/temp.linux-x86_64-3.10/_ext_src/src/bindings.o	f2caacd3ebcda41
+2	11837	1719810418980859854	/work/V-DETR/third_party/pointnet2/build/temp.linux-x86_64-3.10/_ext_src/src/sampling.o	3fe29fb7f9717c8c

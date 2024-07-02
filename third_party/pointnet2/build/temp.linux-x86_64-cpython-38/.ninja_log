@@ -1,0 +1,10 @@
+# ninja log v5
+0	15686	1715825705882378829	/home/funa0825/BBox/V-DETR/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/group_points_gpu.o	fbd2b4f393b4719d
+1	15766	1715825705962378819	/home/funa0825/BBox/V-DETR/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/ball_query_gpu.o	896b7e8de43b3d44
+1	15844	1715825706042378811	/home/funa0825/BBox/V-DETR/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/interpolate_gpu.o	2ac1dbc082f084db
+1	15919	1715825706112378804	/home/funa0825/BBox/V-DETR/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/sampling_gpu.o	a80e25abcd53b89
+0	18994	1715825709162378467	/home/funa0825/BBox/V-DETR/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/ball_query.o	f0dc48e7e0f2f75e
+1	19090	1715825709252378457	/home/funa0825/BBox/V-DETR/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/sampling.o	dba6c13bfa8572e5
+1	19098	1715825709252378457	/home/funa0825/BBox/V-DETR/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/interpolate.o	59f4956c7802b69
+1	19183	1715825709352378445	/home/funa0825/BBox/V-DETR/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/group_points.o	e1f5ae9869a89c68
+1	19293	1715825709462378431	/home/funa0825/BBox/V-DETR/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/bindings.o	4fb8c7f8cb3e5c41

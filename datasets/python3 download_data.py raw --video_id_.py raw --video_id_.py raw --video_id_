@@ -1,0 +1,2 @@
+python3 download_data.py raw --video_id_csv raw/raw_train_val_splits.csv --download_dir /tmp/ar_raw_all/ \
+--raw_dataset_assets annotation mesh
